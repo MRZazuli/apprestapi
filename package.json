@@ -20,5 +20,10 @@
     "url": "https://github.com/MRZazuli/apprestapi/issues"
   },
   "homepage": "https://github.com/MRZazuli/apprestapi#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
 }
